@@ -1,2 +1,2 @@
 # YkmanTui
-tui for ykman
+this is suppose to be a tui for ykman
